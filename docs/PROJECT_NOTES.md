@@ -40,4 +40,4 @@ For the “Secret or sign-in code request” rule the code first removes any sen
 7. Live case study (“urgent bank” trap)
 8. Edge-case handling (code notification vs request)
 9. All eight demo results
-10. Takeaway & Q&A
+10. Takeaway & Q&A 
